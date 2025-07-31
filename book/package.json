@@ -1,0 +1,36 @@
+{
+  "name": "manual-darknet",
+  "version": "1.0.1",
+  "description": "Darknet 手册",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kuriv/manual-darknet.git"
+  },
+  "keywords": [
+    "darknet",
+    "darknet-image-classification",
+    "darknet-image-segmentation",
+    "darknet-images",
+    "darknet-yolo"
+  ],
+  "author": "Kuriv Vesti",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kuriv/manual-darknet/issues"
+  },
+  "homepage": "https://github.com/kuriv/manual-darknet#readme",
+  "dependencies": {
+    "gitbook-plugin-back-to-top-button": "^0.1.4",
+    "gitbook-plugin-chapter-fold": "0.0.4",
+    "gitbook-plugin-favicon": "0.0.2",
+    "gitbook-plugin-hide-element": "0.0.4",
+    "gitbook-plugin-lightbox": "^1.2.0",
+    "gitbook-plugin-prism": "^2.4.0",
+    "gitbook-plugin-search-pro": "^2.0.2",
+    "gitbook-plugin-splitter": "0.0.8"
+  }
+}
